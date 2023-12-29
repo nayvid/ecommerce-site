@@ -1,0 +1,10 @@
+17/9/2023
+--stopped at 3.24.58
+--created Checkout,Shipping and AddressForm component
+
+
+09/10/2023
+--completed development
+--need to make changes to HTML CSS for Checkout page
+--make touch ups for the homepage
+--need to host this proj online and make it live
